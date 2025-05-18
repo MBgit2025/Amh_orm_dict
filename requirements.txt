@@ -1,0 +1,6 @@
+sqlalchemy==2.0.25
+streamlit==1.31.0
+pandas==2.2.0 # Or your current version
+openpyxl==3.1.2
+typing_extensions==4.9.0 # Might still be needed by Streamlit/SQLAlchemy
+# fastapi, uvicorn, requests are NO LONGER NEEDED for this setup

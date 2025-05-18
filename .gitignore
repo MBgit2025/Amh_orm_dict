@@ -1,0 +1,12 @@
+# Amh_Orm_dict/ .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.db      
+*.db-journal
+.DS_Store
